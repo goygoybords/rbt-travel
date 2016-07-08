@@ -18,17 +18,17 @@
         </div>
         
     	<!--start marker-->
-        <div class="markercontactmap">
+    <!--     <div class="markercontactmap">
             <div class="circlemarker"><div class="innercirclemarker"></div></div>
             <div class="trianglemarker"></div>
-        </div>
+        </div> -->
         <!--end marker-->
     
     </div>
     <!--end info contact-->
     
 	<!--google maps-->
-    <div id="map-canvas"></div>
+    <!-- <div id="map-canvas"></div> -->
     <!--google maps-->
     	
 </div>
@@ -100,33 +100,46 @@
 		
 		<!--start form-->
 		<div class="grid_4 green fade-right">
-			<h2 class="titlewithborder"><span>CONTACT US</span></h2>
+			<h2 class="titlewithborder"><span><?php the_title(); ?></span></h2>
 			
 			<!--start form-->
-			<form class="contactform">
-				
+
+			<form class="contactform" method = "POST">
+
 				<div class="dividerheight20"></div>	
 				
 				<ul>
-                    <li class="filterinputicon"><div class="inputicon inputfirstname"></div></li>
-                    <li><input value="Name" type="text"></li>
+                    <li class="filterinputicon">
+                        <div class="inputicon inputfirstname"></div>
+                    </li>
+                    <li><input type="text" name = "custname" value = "" placeholder = "Name"></li>
                 </ul>
-				
+				<span class = "error-message"></span>
 				<div class="dividerheight20"></div>
 				
-				<ul>
+                <ul>
                     <li class="filterinputicon"><div class="inputicon inputemail"></div></li>
-                    <li><input value="Email" type="text"></li>
+                    <li><input type="text" name = "custemail" value = "" placeholder = "Email"></li>
                 </ul>
-				
+
+                <span class = "error-message"></span>
+                <div class="dividerheight20"></div>
+                
+                <ul>
+                    <li class="filterinputicon">
+                        <div class="inputicon inputemail"></div>
+                    </li>
+                    <li><input type="text" name = "subject" value = "" placeholder = "Subjet"></li>
+                </ul>
+				<span class = "error-message"></span>
+
 				<div class="dividerheight20"></div>
 				
-				<textarea>Message</textarea>
-				
+				<textarea name = "message">Message</textarea>
+				<span class = "error-message"></span>
 				<div class="dividerheight20"></div>
 				
-				<input value="SEND" type="submit">
-			
+				<input value="SEND" type="submit" name = "submit">
 			</form>
 			<!--end form-->
 			
