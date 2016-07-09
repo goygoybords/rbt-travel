@@ -25,45 +25,6 @@ get_header(); ?>
                         <!-- SLIDE  -->
         				<li data-transition="fade" data-slotamount="7" data-masterspeed="1000" >
         					<img src="<?php bloginfo('template_url');?>/img/rev-slider/1/slide1.jpg" style='background-color:#b2c4cc' alt=""  data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
-                        
-        					<div class="tp-caption lfr"
-        						data-x="550"
-        						data-y="200"
-        						data-customin="x:50;y:150;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.5;scaleY:0.5;skewX:0;skewY:0;opacity:0;transformPerspective:0;transformOrigin:50% 50%;"
-        						data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-        						data-speed="2000"
-        						data-start="200"
-        						data-easing="Power4.easeOut"
-        						data-endspeed="500"
-        						data-endeasing="Power4.easeIn"
-        						style="z-index: 3"><img src="<?php bloginfo('template_url');?>/img/rev-slider/1/model.png" alt="">
-        					</div>
-
-        					<div class="tp-caption customin customout"
-        						data-x="534"
-        						data-y="227"
-        						data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.5;scaleY:0.5;skewX:0;skewY:0;opacity:0;transformPerspective:0;transformOrigin:50% 50%;"
-        						data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-        						data-speed="500"
-        						data-start="2400"
-        						data-easing="Back.easeOut"
-        						data-endspeed="500"
-        						data-endeasing="Power4.easeIn"
-        						style="z-index: 3"><img src="<?php bloginfo('template_url');?>/img/rev-slider/1/arrow1.png" alt="">
-        					</div>
-
-        					<div class="tp-caption customin customout"
-        						data-x="453"
-        						data-y="302"
-        						data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.5;scaleY:0.5;skewX:0;skewY:0;opacity:0;transformPerspective:0;transformOrigin:50% 50%;"
-        						data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-        						data-speed="500"
-        						data-start="2600"
-        						data-easing="Back.easeOut"
-        						data-endspeed="500"
-        						data-endeasing="Power4.easeIn"
-        						style="z-index: 3"><img src="<?php bloginfo('template_url');?>/img/rev-slider/1/arrow2.png" alt="">
-        					</div>
 
         					<div class="tp-caption customin customout"
         						data-x="372"
@@ -75,33 +36,7 @@ get_header(); ?>
         						data-easing="Back.easeOut"
         						data-endspeed="500"
         						data-endeasing="Power4.easeIn"
-        						style="z-index: 3"><img src="<?php bloginfo('template_url');?>/img/rev-slider/1/arrow3.png" alt="">
-        					</div>
-
-                            <div class="tp-caption greybgtextslider skewfromleft customout"
-        						data-x="220"
-        						data-y="220"
-        						data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-        						data-speed="2000"
-        						data-start="700"
-        						data-easing="Power4.easeOut"
-        						data-endspeed="300"
-        						data-endeasing="Power1.easeIn"
-        						data-captionhidden="off"
-        						style="z-index: 6">WE "LOVE TRAVEL" AND YOU ?
-        					</div>
-                            
-                            <div class="tp-caption greybgtextslider skewfromleft customout"
-        						data-x="106"
-        						data-y="295"
-        						data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-        						data-speed="2000"
-        						data-start="1200"
-        						data-easing="Power4.easeOut"
-        						data-endspeed="300"
-        						data-endeasing="Power1.easeIn"
-        						data-captionhidden="off"
-        						style="z-index: 9">AMAZING MULTIPORPOSE THEME
+        						style="z-index: 3"><img src="<?php bloginfo('template_url');?>/img/rev-slider/1/arrow1.png" alt="">
         					</div>
 
                             <div class="tp-caption greybgtextslider skewfromleft customout"
@@ -114,7 +49,7 @@ get_header(); ?>
         						data-endspeed="300"
         						data-endeasing="Power1.easeIn"
         						data-captionhidden="off"
-        						style="z-index: 9">IDEAL FOR ALL YOUR BUSINESS
+        						style="z-index: 9">Experience Whale Shark Watching
         					</div>
                     </li>
                     <!-- SLIDE  -->
@@ -122,13 +57,99 @@ get_header(); ?>
     				<!-- SLIDE  -->
     				<li data-transition="fade" data-slotamount="7" data-masterspeed="1000" >
     					<img src="<?php bloginfo('template_url');?>/img/rev-slider/2/slide2.jpg" style='background-color:#b2c4cc' alt=""  data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
-    				</li>
+    				    
+                        <!-- <div class="tp-caption customin customout"
+                                data-x="372"
+                                data-y="377"
+                                data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.5;scaleY:0.5;skewX:0;skewY:0;opacity:0;transformPerspective:0;transformOrigin:50% 50%;"
+                                data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+                                data-speed="500"
+                                data-start="2800"
+                                data-easing="Back.easeOut"
+                                data-endspeed="500"
+                                data-endeasing="Power4.easeIn"
+                                style="z-index: 3"><img src="<?php bloginfo('template_url');?>/img/rev-slider/1/arrow3.png" alt="">
+                            </div>
+
+                            <div class="tp-caption greybgtextslider skewfromleft customout"
+                                data-x="40"
+                                data-y="370"
+                                data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+                                data-speed="2000"
+                                data-start="1700"
+                                data-easing="Power4.easeOut"
+                                data-endspeed="300"
+                                data-endeasing="Power1.easeIn"
+                                data-captionhidden="off"
+                                style="z-index: 9">IDEAL FOR ALL YOUR BUSINESS
+                            </div> -->
+
+                    </li>
                     <!-- SLIDE  -->
                     
                     <!-- SLIDE  -->
     				<li data-transition="fade" data-slotamount="7" data-masterspeed="1000" >
     					<img src="<?php bloginfo('template_url');?>/img/rev-slider/3/slide3.jpg" style='background-color:#b2c4cc' alt=""  data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
-    				</li>
+    				    
+                        <div class="tp-caption customin customout"
+                                data-x="372"
+                                data-y="377"
+                                data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.5;scaleY:0.5;skewX:0;skewY:0;opacity:0;transformPerspective:0;transformOrigin:50% 50%;"
+                                data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+                                data-speed="500"
+                                data-start="2800"
+                                data-easing="Back.easeOut"
+                                data-endspeed="500"
+                                data-endeasing="Power4.easeIn"
+                                style="z-index: 3"><img src="<?php bloginfo('template_url');?>/img/rev-slider/1/arrow2.png" alt="">
+                            </div>
+
+                            <div class="tp-caption greybgtextslider skewfromleft customout"
+                                data-x="40"
+                                data-y="370"
+                                data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+                                data-speed="2000"
+                                data-start="1700"
+                                data-easing="Power4.easeOut"
+                                data-endspeed="300"
+                                data-endeasing="Power1.easeIn"
+                                data-captionhidden="off"
+                                style="z-index: 9">Cebu City's top places to be in
+                            </div>
+
+                    </li>
+                    <!-- SLIDE  -->
+
+                    <li data-transition="fade" data-slotamount="7" data-masterspeed="1000" >
+                        <img src="<?php bloginfo('template_url');?>/img/rev-slider/4/slide4.jpg" style='background-color:#b2c4cc' alt=""  data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
+                        
+                        <div class="tp-caption customin customout"
+                                data-x="372"
+                                data-y="377"
+                                data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.5;scaleY:0.5;skewX:0;skewY:0;opacity:0;transformPerspective:0;transformOrigin:50% 50%;"
+                                data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+                                data-speed="500"
+                                data-start="2800"
+                                data-easing="Back.easeOut"
+                                data-endspeed="500"
+                                data-endeasing="Power4.easeIn"
+                                style="z-index: 3"><img src="<?php bloginfo('template_url');?>/img/rev-slider/1/arrow3.png" alt="">
+                            </div>
+
+                            <div class="tp-caption greybgtextslider skewfromleft customout"
+                                data-x="40"
+                                data-y="370"
+                                data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+                                data-speed="2000"
+                                data-start="1700"
+                                data-easing="Power4.easeOut"
+                                data-endspeed="300"
+                                data-endeasing="Power1.easeIn"
+                                data-captionhidden="off"
+                                style="z-index: 9">Sumilon Island at it's finest setting
+                            </div>
+
+                    </li>
                     <!-- SLIDE  -->
     			</ul>
     			<div class="tp-bannertimer"></div>
@@ -188,8 +209,8 @@ get_header(); ?>
                     </div>
                 	<!--end percentagehome-->
                 </div>
-                <h2><a href="#">HONEYMOON</a></h2>
-                <p>Lorem ipsum dolor sit amet</p>   
+                <h2><a href="#">ENJOY</a></h2>
+                <p></p>   
             </div>
             <!--end 3 service-->
         </div>
@@ -208,22 +229,32 @@ get_header(); ?>
                     </div>  
                 </div>
 
-                <!--start grid-->
-                <div class="grid_6">
+                 <?php        
+                        $options = array('posts_per_page' => 4 , 'cat' => '3', 'order' => 'ASC');
+                        $query = new WP_Query($options);
+                        while ( $query->have_posts() ) : $query->the_post();
+                            $image_src = wp_get_attachment_image_src( get_post_thumbnail_id(),'full' );
+                            $id = get_the_ID();
+                            $description = get_post_meta($id, 'description'); 
+                            $price = get_post_meta($id, 'tour-price'); 
+                        ?>
+                        <div class="grid_6">
                     <!--START HOME TOUR-->
                     <div class="hometour hometour-0 blue fade-down animate1">
                         <!--start tophometour-->
                         <div class="tophometour">
                             <div class="titleimghometour">
-                                <p class="titlehometour">OSLOB WHALE WATCHING</p>
-                                <img alt="" class="imghometour" src="<?php bloginfo('template_url');?>/img/tours/tour1.jpg">
+                                <p class="titlehometour"><?php the_title(); ?></p>
+                                <img alt="" class="imghometour" src="<?php echo $image_src[0]; ?>">
                             </div>
                             <div class="datedescriptionhometour">
                                 <div class="descriptionhometour">
-                                    <p><strong class="titledescriptionhometour">Title description</strong><br />
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla rhoncus ultrices purus, volutpat malesuada sapien sollicitudin vitae.</p>
-                                </div>	
-                            </div>	
+                                    <p align = "justify">
+                                        <!-- <strong class="titledescriptionhometour">Title description</strong> --><br />
+                                        <?php echo $description[0]; ?>
+                                    </p>
+                                </div>  
+                            </div>  
                         </div>
                         <!--end tophometour-->
                         <!--start bottomhometour-->
@@ -232,97 +263,28 @@ get_header(); ?>
                             <div class="tabshometour">
                                 <div class="hometabs">
                                     <div class="contenthometab moneyhometab" id="tabs-2">
-                                        <img alt="" src="<?php bloginfo('template_url');?>/img/tours/moneytour-blue.png" /><p><strong>9,000 $</strong></p>
+                                        <img alt="" src="<?php bloginfo('template_url');?>/img/tours/moneytour-blue.png" />
+                                        <p><strong><?php echo $price['0']; ?></strong></p>
                                     </div>
                                 </div>
                             </div>
                             <!--end tabs-->
                             <!--start listhometour-->
-                            <div class="listhometour">
-                                <ul>
-                                    <li><p>Lorem ipsum dolor sit<span class="bulletlisthometour"></span></p></li>
-                                    <li><p>Lorem ipsum dolor sit<span class="bulletlisthometour"></span></p></li>
-                                    <li><p>Lorem ipsum dolor sit<span class="bulletlisthometour"></span></p></li>
-                                    <li><p>Lorem ipsum dolor sit<span class="bulletlisthometour"></span></p></li>
-                                </ul>
-                            </div>
+                            <?php the_content(); ?>
+                            
                             <!--end listhometour-->
                             
                             <!--start footer hometour-->
                             <div class="footerhometour">
                                 <div class="contacthometour">
                                     <a href="<?php echo get_permalink(9); ?>">
-        								<span>
-        									<img alt="" src="<?php bloginfo('template_url');?>/img/tours/contacticon.png">
-        									BOOK NOW
-        								</span>
-        							</a>
+                                        <span><img alt="" src="<?php bloginfo('template_url');?>/img/tours/contacticon.png">BOOK NOW</span>
+                                    </a>
                                 </div>
                                 <div class="morehometour">
                                     <a href="#">
-        								<span>
-        									<img alt="" src="<?php bloginfo('template_url');?>/img/tours/moreicon.png">
-        									MORE
-        								</span>
-        							</a>
-                                </div>
-                            </div>
-                            <!--end footer hometour-->	
-                        </div>
-                        <!--end bottomhometour-->
-                    </div>
-                    <!--END HOME TOUR-->
-                </div>
-                <!--end grid-->
-
-                <!--start grid-->
-                <div class="grid_6">
-                    <!--START HOME TOUR-->
-                    <div class="hometour hometour-0 blue fade-down animate1">
-                        <!--start tophometour-->
-                        <div class="tophometour">
-                            <div class="titleimghometour">
-                                <p class="titlehometour">SUMILON ISLAND HOPPING</p>
-                                <img alt="" class="imghometour" src="<?php bloginfo('template_url');?>/img/tours/tour1.jpg">
-                            </div>
-                            <div class="datedescriptionhometour">
-                                <div class="descriptionhometour">
-                                    <p><strong class="titledescriptionhometour">Title description</strong><br />
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla rhoncus ultrices purus, volutpat malesuada sapien sollicitudin vitae.</p>
-                                </div>  
-                            </div>  
-                        </div>
-                        <!--end tophometour-->
-                        <!--start bottomhometour-->
-                        <div class="bottomhometour">
-                            <!--start tabs-->
-                            <div class="tabshometour">
-                                <div class="hometabs">
-                                    <div class="contenthometab moneyhometab" id="tabs-2">
-                                        <img alt="" src="<?php bloginfo('template_url');?>/img/tours/moneytour-blue.png" /><p><strong>9,000 $</strong></p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--end tabs-->
-                            
-                            <!--start listhometour-->
-                            <div class="listhometour">
-                                <ul>
-                                    <li><p>Lorem ipsum dolor sit<span class="bulletlisthometour"></span></p></li>
-                                    <li><p>Lorem ipsum dolor sit<span class="bulletlisthometour"></span></p></li>
-                                    <li><p>Lorem ipsum dolor sit<span class="bulletlisthometour"></span></p></li>
-                                    <li><p>Lorem ipsum dolor sit<span class="bulletlisthometour"></span></p></li>
-                                </ul>
-                            </div>
-                            <!--end listhometour-->
-                            
-                            <!--start footer hometour-->
-                            <div class="footerhometour">
-                                <div class="contacthometour">
-                                    <a href="<?php echo get_permalink(9); ?>"><span><img alt="" src="<?php bloginfo('template_url');?>/img/tours/contacticon.png">BOOK NOW</span></a>
-                                </div>
-                                <div class="morehometour">
-                                    <a href="#"><span><img alt="" src="<?php bloginfo('template_url');?>/img/tours/moreicon.png">MORE</span></a>
+                                        <span><img alt="" src="<?php bloginfo('template_url');?>/img/tours/moreicon.png">MORE</span>
+                                    </a>
                                 </div>
                             </div>
                             <!--end footer hometour-->  
@@ -332,122 +294,7 @@ get_header(); ?>
                     <!--END HOME TOUR-->
                 </div>
                 <!--end grid-->
-
-                <!--start grid-->
-                <div class="grid_6">
-                    <!--START HOME TOUR-->
-                    <div class="hometour hometour-0 blue fade-down animate1">
-                        <!--start tophometour-->
-                        <div class="tophometour">
-                            <div class="titleimghometour">
-                                <p class="titlehometour">PANDANON ISLAND HOPPING</p>
-                                <img alt="" class="imghometour" src="<?php bloginfo('template_url');?>/img/tours/tour1.jpg">
-                            </div>
-                            <div class="datedescriptionhometour">
-                                <div class="descriptionhometour">
-                                    <p><strong class="titledescriptionhometour">Title description</strong><br />
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla rhoncus ultrices purus, volutpat malesuada sapien sollicitudin vitae.</p>
-                                </div>  
-                            </div>  
-                        </div>
-                        <!--end tophometour-->
-                        <!--start bottomhometour-->
-                        <div class="bottomhometour">
-                            <!--start tabs-->
-                            <div class="tabshometour">
-                                <div class="hometabs">
-                                    <div class="contenthometab moneyhometab" id="tabs-2">
-                                        <img alt="" src="<?php bloginfo('template_url');?>/img/tours/moneytour-blue.png" /><p><strong>15,000 $</strong></p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--end tabs-->
-                            
-                            <!--start listhometour-->
-                            <div class="listhometour">
-                                <ul>
-                                    <li><p>Lorem ipsum dolor sit<span class="bulletlisthometour"></span></p></li>
-                                    <li><p>Lorem ipsum dolor sit<span class="bulletlisthometour"></span></p></li>
-                                    <li><p>Lorem ipsum dolor sit<span class="bulletlisthometour"></span></p></li>
-                                    <li><p>Lorem ipsum dolor sit<span class="bulletlisthometour"></span></p></li>
-                                </ul>
-                            </div>
-                            <!--end listhometour-->
-                            
-                            <!--start footer hometour-->
-                            <div class="footerhometour">
-                                <div class="contacthometour">
-                                    <a href="<?php echo get_permalink(9); ?>"><span><img alt="" src="<?php bloginfo('template_url');?>/img/tours/contacticon.png">BOOK NOW</span></a>
-                                </div>
-                                <div class="morehometour">
-                                    <a href="#"><span><img alt="" src="<?php bloginfo('template_url');?>/img/tours/moreicon.png">MORE</span></a>
-                                </div>
-                            </div>
-                            <!--end footer hometour-->  
-                        </div>
-                        <!--end bottomhometour-->
-                    </div>
-                    <!--END HOME TOUR-->
-                </div>
-                <!--end grid-->
-
-                <!--start grid-->
-                <div class="grid_6">
-                    <!--START HOME TOUR-->
-                    <div class="hometour hometour-0 blue fade-down animate1">
-                        <!--start tophometour-->
-                        <div class="tophometour">
-                            <div class="titleimghometour">
-                                <p class="titlehometour">CEBU CITY TOUR</p>
-                                <img alt="" class="imghometour" src="<?php bloginfo('template_url');?>/img/tours/tour1.jpg">
-                            </div>
-                            <div class="datedescriptionhometour">
-                                <div class="descriptionhometour">
-                                    <p><strong class="titledescriptionhometour">Title description</strong><br />
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla rhoncus ultrices purus, volutpat malesuada sapien sollicitudin vitae.</p>
-                                </div>  
-                            </div>  
-                        </div>
-                        <!--end tophometour-->
-                        <!--start bottomhometour-->
-                        <div class="bottomhometour">
-                            <!--start tabs-->
-                            <div class="tabshometour">
-                                <div class="hometabs">
-                                    <div class="contenthometab moneyhometab" id="tabs-2">
-                                        <img alt="" src="<?php bloginfo('template_url');?>/img/tours/moneytour-blue.png" /><p><strong>9,000 $</strong></p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--end tabs-->
-                            
-                            <!--start listhometour-->
-                            <div class="listhometour">
-                                <ul>
-                                    <li><p>Lorem ipsum dolor sit<span class="bulletlisthometour"></span></p></li>
-                                    <li><p>Lorem ipsum dolor sit<span class="bulletlisthometour"></span></p></li>
-                                    <li><p>Lorem ipsum dolor sit<span class="bulletlisthometour"></span></p></li>
-                                    <li><p>Lorem ipsum dolor sit<span class="bulletlisthometour"></span></p></li>
-                                </ul>
-                            </div>
-                            <!--end listhometour-->
-                            
-                            <!--start footer hometour-->
-                            <div class="footerhometour">
-                                <div class="contacthometour">
-                                    <a href="<?php echo get_permalink(9); ?>"><span><img alt="" src="<?php bloginfo('template_url');?>/img/tours/contacticon.png">BOOK NOW</span></a>
-                                </div>
-                                <div class="morehometour">
-                                    <a href="#"><span><img alt="" src="<?php bloginfo('template_url');?>/img/tours/moreicon.png">MORE</span></a>
-                                </div>
-                            </div>
-                            <!--end footer hometour-->  
-                        </div>
-                        <!--end bottomhometour-->
-                    </div>
-                    <!--END HOME TOUR-->
-                </div>
-                <!--end grid-->
+                <?php endwhile; ?>
             </div>
             <!--end container--> 
         </section>
