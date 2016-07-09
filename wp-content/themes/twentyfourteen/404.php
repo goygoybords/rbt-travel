@@ -11,9 +11,9 @@ get_header(); ?>
 
         
 
-	<div class="divider"><span style = "visibility: hidden;"></span></div>    
-    <div class="divider"><span style = "visibility: hidden;"></span></div>   
-    <div class="divider"><span style = "visibility: hidden;"></span></div>   
+	<div class="divider"><span></span></div>    
+    <div class="divider"><span></span></div>
+    <div class="divider"><span></span></div>
         <!--start hometour-->
         <section id="hometours">
             <!--start container-->
@@ -31,7 +31,7 @@ get_header(); ?>
         <!--end hometour-->
 
 
-        <div class="divider"><span style = "visibility: hidden;"></span></div>   
+        <div class="divider"><span></span></div>
         <div class="divider"><span></span></div>
  <?php get_footer(); ?>
 
