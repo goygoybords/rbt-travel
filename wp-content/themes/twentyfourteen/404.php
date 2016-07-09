@@ -9,24 +9,30 @@
 
 get_header(); ?>
 
+        
 
-	<div id="primary" class="content-area">
-		<div id="content" class="site-content" role="main">
+	<div class="divider"><span style = "visibility: hidden;"></span></div>    
+    <div class="divider"><span style = "visibility: hidden;"></span></div>   
+    <div class="divider"><span style = "visibility: hidden;"></span></div>   
+        <!--start hometour-->
+        <section id="hometours">
+            <!--start container-->
+            <div class="container clearfix">
+                <div class="grid_12">
+                	<div class="titlesection">
+                    	<h1>The page you are trying to reach does not exist, or has been moved. </h1>
+                    </div>  
+                </div>
 
-			<header class="page-header">
-				<h1 class="page-title"><?php _e( 'Not Found', 'twentyfourteen' ); ?></h1>
-			</header>
+                
+            </div>
+            <!--end container--> 
+        </section>
+        <!--end hometour-->
 
-			<div class="page-content">
-				<p><?php _e( 'It looks like nothing was found at this location. Maybe try a search?', 'twentyfourteen' ); ?></p>
 
-				<?php get_search_form(); ?>
-			</div><!-- .page-content -->
+        <div class="divider"><span style = "visibility: hidden;"></span></div>   
+        <div class="divider"><span></span></div>
+ <?php get_footer(); ?>
 
-		</div><!-- #content -->
-	</div><!-- #primary -->
 
-<?php
-get_sidebar( 'content' );
-get_sidebar();
-get_footer();
